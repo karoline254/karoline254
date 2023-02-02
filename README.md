@@ -8,7 +8,7 @@
 <br/>
 
 
-![Lima GitHub stats](https://github-readme-stats.vercel.app/api?username=karoline254&show_icons=true&theme=dracula)
+![Lima GitHub stats](https://github-readme-stats.vercel.app/api?username=karoline254&show_icons=true&theme=radical)
 
 
 
